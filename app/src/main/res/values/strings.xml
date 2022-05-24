@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="waktu_berjalan_cepat_yuk_simpan_catatannya">Waktu Berjalan Cepat, Yuk Simpan Catatannya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title...</string>
+    <string name="subtitle">Subtitle...</string>
+    <string name="notes">Notes...</string>
+    <string name="high">High</string>
+</resources>
